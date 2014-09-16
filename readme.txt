@@ -25,10 +25,13 @@ The simple and lightweight WordPress Plugin Redirect To URL allows you to redire
 
 == Screenshots ==
 
-1. RedirectionEnabled.PNG
-2. RedirectToURL1.PNG
+1. RedirectionEnabled
+2. RedirectToURL1
 
 == Changelog ==
+
+= 0.8.1 =
+*readme Updates
 
 = 0.8 =
 * Release
