@@ -12,7 +12,7 @@ This simple and lightweight Plugin allows you to redirect your visitors to an ex
 
 == Description ==
 
-The very simple and lightweight WordPress Plugin Redirect To URL allows you to redirect your visitors to an external Website by clicking on an article or a page
+This simple and lightweight WordPress Plugin Redirect To URL allows you to redirect your visitors to an external Website by clicking on an article or a page
 
 **Features**
 
