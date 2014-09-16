@@ -7,11 +7,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The simple and lightweight WordPress Plugin Redirect To URL allows you to redirect your visitors to an external Website by clicking on an article or a page.
+The 1 simple and lightweight WordPress Plugin Redirect To URL allows you to redirect your visitors to an external Website by clicking on an article or a page.
 
 == Description ==
 
-The simple and lightweight WordPress Plugin Redirect To URL allows you to redirect your visitors to an external Website by clicking on an article or a page.
+The 2 simple and lightweight WordPress Plugin Redirect To URL allows you to redirect your visitors to an external Website by clicking on an article or a page.
 
 == Installation ==
 
