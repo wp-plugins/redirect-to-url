@@ -1,0 +1,34 @@
+=== Redirect To URL ===
+Contributors: MarcelFagas
+Tags: Redirection, Redirect, external URL, external Website
+Requires at least: 3.4.1
+Tested up to: 3.4
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+The simple and lightweight WordPress Plugin Redirect To URL allows you to redirect your visitors to an external Website by clicking on an article or a page.
+
+== Description ==
+
+The simple and lightweight WordPress Plugin Redirect To URL allows you to redirect your visitors to an external Website by clicking on an article or a page.
+
+== Installation ==
+
+1. Install the Plugin
+1. Activate the Plugin
+1. Upon activation, you get a settings box in every article or page you create. Use this box to provide the address for redirection.
+1. If the textbox is empty, redirection is disabled automatically. Activate it again by entering an address.
+1. By visiting the article or page, the visitor will be redirected autmatically.
+1. Thats it!
+
+
+== Screenshots ==
+
+1. RedirectionEnabled.PNG
+2. RedirectToURL1.PNG
+
+== Changelog ==
+
+= 0.8 =
+* Release
